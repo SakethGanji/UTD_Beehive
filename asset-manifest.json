@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/UTD_Beehive/static/css/main.d7d19c2a.css",
-    "main.js": "/UTD_Beehive/static/js/main.875a2491.js",
+    "main.js": "/UTD_Beehive/static/js/main.40148810.js",
     "index.html": "/UTD_Beehive/index.html",
     "main.d7d19c2a.css.map": "/UTD_Beehive/static/css/main.d7d19c2a.css.map",
-    "main.875a2491.js.map": "/UTD_Beehive/static/js/main.875a2491.js.map"
+    "main.40148810.js.map": "/UTD_Beehive/static/js/main.40148810.js.map"
   },
   "entrypoints": [
     "static/css/main.d7d19c2a.css",
-    "static/js/main.875a2491.js"
+    "static/js/main.40148810.js"
   ]
 }
